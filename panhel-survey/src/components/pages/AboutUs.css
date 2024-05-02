@@ -1,0 +1,29 @@
+body {
+    background-color: #FBEEFA;
+}
+
+.AboutUs h1, .AboutUs h2 {
+    text-align: center;
+    color: #F94EA0;
+}
+
+.AboutUs p {
+    text-align: center;
+}
+
+.AboutUs img {
+    display: inline-block;
+    margin-left: 400px;
+    margin-right: auto;
+}
+
+.team-images {
+    display: flex;
+    justify-content: center;
+}
+
+.centered-image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
